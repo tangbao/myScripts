@@ -1,2 +1,4 @@
 # myscripts
-小脚本与杂七杂八的小玩意
+
+998_check_in
+格林豪泰APP签到脚本
