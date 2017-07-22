@@ -1,4 +1,4 @@
 # myScripts
-
-998_check_in 16.11.04  
-格林豪泰APP签到脚本
+  
+## 998_check_in 16.11.04  
+a script to check in the Green Hotel App
